@@ -1,0 +1,63 @@
+.body_block {
+    background-color: #fff !important;
+}
+.login-container{
+	margin-top: 4em;
+}
+.login-container img{
+	align-self: flex-end;
+}
+.login-container .title{
+	background: #fd66c3;
+	padding: 10px;
+	margin-bottom: 1em;
+}
+.login-container .title h1{
+	font-size: 19px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: -8px;
+}
+.login-container .title span{
+	font-size: 13px;
+	color: #fff;
+}
+.login-container input{
+	border: 1px solid #fd66c3;
+	color: #fd66c3 !important;
+	background: #fff;
+}
+.login-container .checkbox{
+	display: flex;
+	font-size: 13px;
+	color: #000;
+}
+.login-container .checkbox div{
+	border: 1px solid #fd66c3;
+	color: #fd66c3;
+	background: #fff;
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	margin-right: 5px;
+}
+.login-container .checkbox input{
+	display: none;
+}
+
+.info{
+	margin-top: 4px;
+	font-size: 14px;
+	color: #fd66c3;
+	text-align: center;
+	font-weight: lighter;
+}
+.info a{
+	font-size: 13px;
+	text-decoration: none;
+	font-weight: bolder;
+	color: #fd66c3;
+}
+.info a:hover{
+	color: #000;
+}
